@@ -1,12 +1,14 @@
-### Olá eu sou Gabriel Henrique 🖐️
+## Olá eu sou Gabriel Henrique 🖐️
+
+<hr>
 
 [![Blog](https://img.shields.io/website?label=projetodjango.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://projetodjango.vercel.app)
 
 ![GabrielHJLC GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=radical)
 
-##Tecnologias que Uso No Meu Dia
+## Tecnologias que Uso No Meu Dia
 
-<div style="display:inline_block"><br/>
+<div style="display:inline_block"><hr/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></img>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
