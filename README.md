@@ -1,6 +1,6 @@
 ### Olá eu sou Gabriel Henrique 🖐️
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://projetodjango.vercel.app)
+[![Blog](https://img.shields.io/website?label=projetodjango.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://projetodjango.vercel.app)
 
 ![GabrielHJLC GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=radical)
 
@@ -14,4 +14,3 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
     <img align="center" alt="css" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 </div>
-
