@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website?label=projetodjango.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://projetodjango.vercel.app)
 
-![GabrielHJLC GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=radical)
+![GabrielHJLC GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=transparent)
 
 ## Tecnologias que Uso No Meu Dia
 
