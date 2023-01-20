@@ -4,7 +4,7 @@
 
 ![GabrielHJLC GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=github_dark )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact&theme=github_dark)](https://https://github.com/GabrielHJLC/Django-3.9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact&theme=github_dark)](https://github.com/GabrielHJLC/Django-3.9)
 
 ## Tecnologias que Uso No Meu Dia
 
