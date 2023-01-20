@@ -1,13 +1,10 @@
 ## Olá eu sou Gabriel Henrique 🖐️
 
-[![Blog](https://img.shields.io/website?label=projetodjango.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://projetodjango.vercel.app)
+[![Blog](https://img.shields.io/website?label=Front_Tecnologia.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://frontecnologia.vercel.app)
 
-<div>
-    ![GabrielHJLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=transparent)
-    <a href="https://github.com/GabrielHJLC/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielHJLC&repo=convoychat" />
-    </a>
-</div>
+![GabrielHJLC GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=github_dark )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact&theme=github_dark)](https://github.com/GabrielHJLC/github-readme-stats)
 
 ## Tecnologias que Uso No Meu Dia
 
@@ -16,6 +13,6 @@
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></img>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-    <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
-    <img align="center" alt="css" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+    <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 </div>
