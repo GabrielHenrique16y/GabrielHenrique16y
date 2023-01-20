@@ -4,8 +4,6 @@
 
 ![GabrielHJLC GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=github_dark )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact&theme=github_dark)](https://github.com/GabrielHJLC/github-readme-stats)
-
 ## Tecnologias que Uso No Meu Dia
 
 <div style="display:inline_block"><br/>
