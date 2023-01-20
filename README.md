@@ -1,10 +1,13 @@
-## Olá eu sou Gabriel Henrique 🖐️
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Olá Eu Sou Gabriel Henrique <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
+
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=github_dark" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact" />
 
 [![Blog](https://img.shields.io/website?label=Front_Tecnologia.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://frontecnologia.vercel.app)
-
-![GabrielHJLC GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=github_dark )
-
-[![Top Langs](https://[github-readme-stats.vercel.app](https://github.com/GabrielHJLC/Django-3.9)/api/top-langs/?username=GabrielHJLC&layout=compact&theme=github_dark)](https://github.com/GabrielHJLC/Django-3.9)
 
 ## Tecnologias que Uso No Meu Dia
 
