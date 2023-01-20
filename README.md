@@ -4,7 +4,7 @@
 
 <div>
     <a href="https://github.com/GabrielHJLC/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielHJLC&repo=github-readme-stats" />
+        ![GabrielHJLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=transparent)
     </a>
     <a href="https://github.com/GabrielHJLC/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielHJLC&repo=convoychat" />
