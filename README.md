@@ -5,7 +5,7 @@ Olá Eu Sou Gabriel Henrique <img src="https://media.giphy.com/media/12oufCB0MyZ
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=github_dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact&theme=github_dark" />
 
 [![Blog](https://img.shields.io/website?label=Front_Tecnologia.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://frontecnologia.vercel.app)
 
