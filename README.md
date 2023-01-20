@@ -3,9 +3,7 @@
 [![Blog](https://img.shields.io/website?label=projetodjango.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://projetodjango.vercel.app)
 
 <div>
-    <a href="https://github.com/GabrielHJLC/github-readme-stats">
-        ![GabrielHJLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=transparent)
-    </a>
+    ![GabrielHJLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=transparent)
     <a href="https://github.com/GabrielHJLC/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielHJLC&repo=convoychat" />
     </a>
