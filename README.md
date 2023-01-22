@@ -10,8 +10,8 @@ Olá Eu Sou Gabriel Henrique <img src="https://media.giphy.com/media/12oufCB0MyZ
 
 
 ## Meus Projetos
-
 [![Blog](https://img.shields.io/website?label=Front_Tecnologia.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://frontecnologia.vercel.app)
+[![Blog](https://img.shields.io/website?label=Notification-page.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://notification-page-frontend-mentor.vercel.app/)
 [![Blog](https://img.shields.io/website?label=Qr-Code.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://1desafio-front-end-mentor.vercel.app/)
 
 ## Tecnologias que Uso No Meu Dia
