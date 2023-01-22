@@ -5,7 +5,7 @@ Olá Eu Sou Gabriel Henrique <img src="https://media.giphy.com/media/12oufCB0MyZ
 
 <div>
     <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=github_dark" />
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&theme=github_dark&layout=compact" /><br>
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&theme=github_dark&" /><br>
 </div>
 
 
