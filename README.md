@@ -6,17 +6,14 @@ Olá Eu Sou Gabriel Henrique <img src="https://media.giphy.com/media/12oufCB0MyZ
 <div>
     <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&theme=github_dark" />
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&theme=github_dark&layout=compact" /><br>
-</div>
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-          
+</div>          
 
 ## Meus Projetos
 [![Blog](https://img.shields.io/website?label=fylo-landing-page.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://fylo-landing-page-with-two-column-layout-seven.vercel.app/)
 [![Blog](https://img.shields.io/website?label=Notification-page.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://notification-page-frontend-mentor.vercel.app/)
 [![Blog](https://img.shields.io/website?label=Qr-Code.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://1desafio-front-end-mentor.vercel.app/)
 
-##
+##Tecnologias Que Uso No Meu Dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
