@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Gabriel%20Henrique&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front%20End&descAlignY=50">
 
 <div>
-    <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&count_private=true&hide_border=true&title_color=034ea3&icon_color=9796f0&text_color=03e9f4&bg_color=0d1117" />
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact&hide_border=true&title_color=034ea3&text_color=3f3f3f&bg_color=0d1117" /><br>
+    <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&count_private=true&hide_border=true&title_color=034ea3&icon_color=9796f0&text_color=03e9f4&bg_color=0d1117" />
 </div>          
 
 ## Meus Projetos
