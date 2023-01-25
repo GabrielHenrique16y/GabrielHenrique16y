@@ -1,8 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Gabriel%20Henrique&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Gabriel+Henrique;E+eu+Tenho+14+Anos;E+Eu+Sou+Programador+Front+End)](https://git.io/typing-svg)
 
 <div>
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact&hide_border=true&title_color=034ea3&text_color=3f3f3f&bg_color=0d1117" /><br>
-    <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&count_private=true&hide_border=true&title_color=034ea3&icon_color=9796f0&text_color=03e9f4&bg_color=0d1117" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHJLC&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /><br>
+    <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GabrielHJLC&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=9796f0&text_color=00bfbf&bg_color=0d1117" />
 </div>          
 
 ## Meus Projetos
