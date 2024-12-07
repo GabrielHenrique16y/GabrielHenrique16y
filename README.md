@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Gabriel;I+am+15+Years+old;And+I'm+Programmer+FullStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Gabriel;I+am+16+Years+old;And+I'm+Programmer+FullStack)](https://git.io/typing-svg)
 
 # 💫 About Me:
    I’m currently learning Javascript<br>   I'm 15 years old<br>
