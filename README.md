@@ -8,15 +8,17 @@ I’m currently learning Javascript<br>I'm 16 years old
 ![](https://github-readme-stats.vercel.app/api?username=GabrielHenrique16y&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielHenrique16y/GabrielHenrique16y/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielHenrique16y/GabrielHenrique16y/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielHenrique16y/GabrielHenrique16y/output/github-contribution-grid-snake.svg">
-</picture>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=GabrielHenrique16y&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique16y&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielHenrique16y/GabrielHenrique16y/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielHenrique16y/GabrielHenrique16y/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielHenrique16y/GabrielHenrique16y/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
